@@ -1,26 +1,26 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "82e7583f-2e3c-47ea-a3ec-23286b9ffc44": {
-      "ProjectGuid": "82e7583f-2e3c-47ea-a3ec-23286b9ffc44",
-      "DisplayName": "Assignment5",
-      "ColorIndex": 0
-    },
-    "cd73448a-85b7-435c-aba0-f242ae18cc01": {
-      "ProjectGuid": "cd73448a-85b7-435c-aba0-f242ae18cc01",
-      "DisplayName": "Problem1",
-      "ColorIndex": 1
-    },
-    "53caba21-35ee-488a-a31d-ecc75a71487d": {
-      "ProjectGuid": "53caba21-35ee-488a-a31d-ecc75a71487d",
-      "DisplayName": "Problem2",
-      "ColorIndex": 2
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     },
     "6adb79ae-d1a8-4a07-a532-0b5629ee4cd4": {
       "ProjectGuid": "6adb79ae-d1a8-4a07-a532-0b5629ee4cd4",
       "DisplayName": "Problem3",
-      "ColorIndex": 3
+      "ColorIndex": 0
+    },
+    "53caba21-35ee-488a-a31d-ecc75a71487d": {
+      "ProjectGuid": "53caba21-35ee-488a-a31d-ecc75a71487d",
+      "DisplayName": "Problem2",
+      "ColorIndex": 1
+    },
+    "cd73448a-85b7-435c-aba0-f242ae18cc01": {
+      "ProjectGuid": "cd73448a-85b7-435c-aba0-f242ae18cc01",
+      "DisplayName": "Problem1",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 3
 }
