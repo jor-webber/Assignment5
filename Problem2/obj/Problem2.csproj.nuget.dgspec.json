@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rghotra\\Documents\\Assignment5\\Problem2\\Problem2.csproj": {}
+    "C:\\Users\\Harmanpreet Dhillon\\Documents\\GitHub\\Assignment5\\Problem2\\Problem2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rghotra\\Documents\\Assignment5\\Problem2\\Problem2.csproj": {
+    "C:\\Users\\Harmanpreet Dhillon\\Documents\\GitHub\\Assignment5\\Problem2\\Problem2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rghotra\\Documents\\Assignment5\\Problem2\\Problem2.csproj",
+        "projectUniqueName": "C:\\Users\\Harmanpreet Dhillon\\Documents\\GitHub\\Assignment5\\Problem2\\Problem2.csproj",
         "projectName": "Problem2",
-        "projectPath": "C:\\Users\\rghotra\\Documents\\Assignment5\\Problem2\\Problem2.csproj",
-        "packagesPath": "C:\\Users\\rghotra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rghotra\\Documents\\Assignment5\\Problem2\\obj\\",
+        "projectPath": "C:\\Users\\Harmanpreet Dhillon\\Documents\\GitHub\\Assignment5\\Problem2\\Problem2.csproj",
+        "packagesPath": "C:\\Users\\Harmanpreet Dhillon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Harmanpreet Dhillon\\Documents\\GitHub\\Assignment5\\Problem2\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\rghotra\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Harmanpreet Dhillon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
