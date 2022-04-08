@@ -3,6 +3,9 @@ using System.Collections.Generic;
 
 namespace Problem4
 {
+    /// <summary>
+    /// Creates the auctioneer
+    /// </summary>
     public class Auctioneer : IObservable<Art>
     {
         /// <summary>
