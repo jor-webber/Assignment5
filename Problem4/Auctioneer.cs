@@ -41,6 +41,8 @@ namespace Problem4
                     if (art.NumberOfBids == 5)
                     {
                         artList.Remove(art);
+                        buyer.OnCompleted();
+
                     }
 
                     buyer.OnNext(art);
