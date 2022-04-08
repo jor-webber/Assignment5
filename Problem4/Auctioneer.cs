@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Problem4
 {
-    class Auctioneer : IObservable<Art>
+    public class Auctioneer : IObservable<Art>
     {
         /// <summary>
         /// Maintain a list of buyers
@@ -50,46 +50,6 @@ namespace Problem4
 
             return new Unsubscriber<Art>(buyers, buyer);
         }
-
-
-        //public bool ShowArtToBuyer(Art art, IObserver<Art> buyer)
-        //{
-        //    int numBids = art.NumberOfBids;
-        //    buyer.OnNext(art);
-        //    if (numBids != art.NumberOfBids)
-        //    {
-        //        return true;
-        //    }
-        //    else
-        //    {
-        //        return false;
-        //    }
-
-        //}
-
-        //public void NotifyAllBuyers(Art art)
-        //{
-        //    if (!artList.Contains(art))
-        //    {
-        //        artList.Add(art);
-        //    }
-
-        //    foreach (var artPiece in this.artList)
-        //    {
-
-        //        int numBids = art.NumberOfBids;
-
-
-        //        if (art.NumberOfBids == 5)
-        //        {
-        //            artList.Remove(art);
-        //            buyer.OnCompleted();
-        //            buyers.Remove(buyer);
-        //        }
-
-        //    }
-        //}
-
 
     }
 }
