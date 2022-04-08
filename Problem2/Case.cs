@@ -25,6 +25,7 @@ namespace Problem2
                 {
                     throw new ArgumentOutOfRangeException(nameof(Length), "Length of the case cannot be 0 or less");
                 }
+                _length = value;
             }
         }
 

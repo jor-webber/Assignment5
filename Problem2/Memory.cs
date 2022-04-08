@@ -54,8 +54,8 @@ namespace Problem2
             get => _type;
             set
             {
-                if (!value.ToUpper().Equals("DDR1") || !value.ToUpper().Equals("DDR2") ||
-                    !value.ToUpper().Equals("DDR3") || !value.ToUpper().Equals("DDR4"))
+                if (!value.ToUpper().Equals("DDR1") && !value.ToUpper().Equals("DDR2") &&
+                    !value.ToUpper().Equals("DDR3") && !value.ToUpper().Equals("DDR4"))
                 {
                     throw new ArgumentOutOfRangeException(nameof(Type), "Memory type must be DDR1, DDR2, DDR3, or DDR4");
                 }

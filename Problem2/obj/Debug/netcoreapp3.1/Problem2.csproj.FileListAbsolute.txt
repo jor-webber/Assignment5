@@ -1,0 +1,10 @@
+C:\Users\webbe\source\repos\Assignment5\Problem2\bin\Debug\netcoreapp3.1\Problem2.deps.json
+C:\Users\webbe\source\repos\Assignment5\Problem2\bin\Debug\netcoreapp3.1\Problem2.dll
+C:\Users\webbe\source\repos\Assignment5\Problem2\bin\Debug\netcoreapp3.1\Problem2.pdb
+C:\Users\webbe\source\repos\Assignment5\Problem2\obj\Debug\netcoreapp3.1\Problem2.csproj.AssemblyReference.cache
+C:\Users\webbe\source\repos\Assignment5\Problem2\obj\Debug\netcoreapp3.1\Problem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\webbe\source\repos\Assignment5\Problem2\obj\Debug\netcoreapp3.1\Problem2.AssemblyInfoInputs.cache
+C:\Users\webbe\source\repos\Assignment5\Problem2\obj\Debug\netcoreapp3.1\Problem2.AssemblyInfo.cs
+C:\Users\webbe\source\repos\Assignment5\Problem2\obj\Debug\netcoreapp3.1\Problem2.csproj.CoreCompileInputs.cache
+C:\Users\webbe\source\repos\Assignment5\Problem2\obj\Debug\netcoreapp3.1\Problem2.dll
+C:\Users\webbe\source\repos\Assignment5\Problem2\obj\Debug\netcoreapp3.1\Problem2.pdb

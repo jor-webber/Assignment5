@@ -1,20 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wXHH9gJYLuaNsCTTLn1k7fxU+yX/Qx9i1HixmxT1vsGmRVj7fRb7O+5KhOH4ctIbnSDXuQl1Awg1FSLSrQBIOg==",
+  "dgSpecHash": "draC/0mxymAQ36zdzuC9H0O2pWIfI792KKdTbVJAwky5/xSZn+Jjzqh9qLC1O1gtwjAO3Cs5v0NoepGjyu+WHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Harmanpreet Dhillon\\Documents\\GitHub\\Assignment5\\Problem4\\Problem4.csproj",
+  "projectFilePath": "C:\\Users\\webbe\\source\\repos\\Assignment5\\Problem4\\Problem4.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Harmanpreet Dhillon\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
-    "C:\\Users\\Harmanpreet Dhillon\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
-    "C:\\Users\\Harmanpreet Dhillon\\.nuget\\packages\\npoi\\2.5.5\\npoi.2.5.5.nupkg.sha512",
-    "C:\\Users\\Harmanpreet Dhillon\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512",
-    "C:\\Users\\Harmanpreet Dhillon\\.nuget\\packages\\sharpziplib\\1.3.2\\sharpziplib.1.3.2.nupkg.sha512",
-    "C:\\Users\\Harmanpreet Dhillon\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
-    "C:\\Users\\Harmanpreet Dhillon\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512",
-    "C:\\Users\\Harmanpreet Dhillon\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
-    "C:\\Users\\Harmanpreet Dhillon\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
-    "C:\\Users\\Harmanpreet Dhillon\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
-    "C:\\Users\\Harmanpreet Dhillon\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+    "C:\\Users\\webbe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
   ],
   "logs": []
 }

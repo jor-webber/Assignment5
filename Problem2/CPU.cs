@@ -35,7 +35,7 @@ namespace Problem2
             get => _manufacturer;
             set
             {
-                if (!value.ToUpper().Equals("INTEL") || !value.ToUpper().Equals("AMD"))
+                if (!value.ToUpper().Equals("INTEL") && !value.ToUpper().Equals("AMD"))
                 {
                     throw new ArgumentException("Manufacturer must be either Intel and AMD");
                 }
