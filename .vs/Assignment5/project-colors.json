@@ -20,7 +20,12 @@
       "ProjectGuid": "cd73448a-85b7-435c-aba0-f242ae18cc01",
       "DisplayName": "Problem1",
       "ColorIndex": 2
+    },
+    "87604b3b-f2e6-43ff-9e00-5e9773b39c35": {
+      "ProjectGuid": "87604b3b-f2e6-43ff-9e00-5e9773b39c35",
+      "DisplayName": "UnitTests",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
