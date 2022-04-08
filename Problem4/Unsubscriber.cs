@@ -1,11 +1,10 @@
-﻿using NPOI.SS.Formula.Functions;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace Problem4
 {
-    public class Unsubscriber : IDisposable
+    public class Unsubscriber<T> : IDisposable
     {
         private List<IObserver<T>> observers;
         private IObserver<T> observer;

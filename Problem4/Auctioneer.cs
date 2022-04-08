@@ -42,7 +42,7 @@ namespace Problem4
             }
 
 
-            return new UnSubscriber<Art>(this.artList, buyer);
+            return new Unsubscriber<Art>(buyers, buyer);
         }
 
 
