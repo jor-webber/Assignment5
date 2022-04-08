@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\webbe\\source\\repos\\Assignment5\\Problem3\\Problem3.csproj": {}
+    "C:\\Users\\rghotra\\Documents\\Assignment5\\Problem3\\Problem3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\webbe\\source\\repos\\Assignment5\\Problem3\\Problem3.csproj": {
+    "C:\\Users\\rghotra\\Documents\\Assignment5\\Problem3\\Problem3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\webbe\\source\\repos\\Assignment5\\Problem3\\Problem3.csproj",
+        "projectUniqueName": "C:\\Users\\rghotra\\Documents\\Assignment5\\Problem3\\Problem3.csproj",
         "projectName": "Problem3",
-        "projectPath": "C:\\Users\\webbe\\source\\repos\\Assignment5\\Problem3\\Problem3.csproj",
-        "packagesPath": "C:\\Users\\webbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\webbe\\source\\repos\\Assignment5\\Problem3\\obj\\",
+        "projectPath": "C:\\Users\\rghotra\\Documents\\Assignment5\\Problem3\\Problem3.csproj",
+        "packagesPath": "C:\\Users\\rghotra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rghotra\\Documents\\Assignment5\\Problem3\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\webbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\rghotra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

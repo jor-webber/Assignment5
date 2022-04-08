@@ -1,7 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-
+/*
+ * The group members, Harmanpreet Dhillon, 000816379, Jordan Webber, 000803303, Ramandeep Ghotra, 000818354, 
+ * certify that this material is our original work. No other person's work has been used without due acknowledgement. 
+ * We have not made my work available to anyone else.
+ */
 namespace Problem3
 {
     /// <summary>
