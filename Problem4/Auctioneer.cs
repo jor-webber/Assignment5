@@ -1,8 +1,17 @@
-﻿using System;
+﻿/*
+ * The group members, Harmanpreet Dhillon, 000816379, Jordan Webber, 000803303, Ramandeep Ghotra, 000818354, 
+ * certify that this material is our original work. No other person's work has been used without due acknowledgement. 
+ * We have not made my work available to anyone else.
+ */
+
+using System;
 using System.Collections.Generic;
 
 namespace Problem4
 {
+    /// <summary>
+    /// Creates the auctioneer
+    /// </summary>
     public class Auctioneer : IObservable<Art>
     {
         /// <summary>
