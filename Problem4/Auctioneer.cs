@@ -37,6 +37,12 @@ namespace Problem4
 
                 foreach (var art in this.artList)
                 {
+
+                    if (art.NumberOfBids == 5)
+                    {
+                        artList.Remove(art);
+                    }
+
                     buyer.OnNext(art);
                 }
             }
